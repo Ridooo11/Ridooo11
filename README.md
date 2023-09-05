@@ -21,9 +21,9 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/ramiro-ridolfi-234956277/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramiro%20Ridolfi-0D170E?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ramiro-ridolfi-234956277/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramiro%20Ridolfi-0D170E?style=flat&logo=linkedin"></a>
 <br>
-<a href="ramiroenet35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ramiroenet35@gmail.com-0D170E?style=flat-square&logo=gmail"></a>  
+<a href="ramiroenet35@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Gmail-ramiroenet35@gmail.com-0D170E?style=flat-square&logo=gmail"></a>  
 
 
 
