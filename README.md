@@ -1,4 +1,4 @@
-<h1>Hi! I´m Ramiro Ridolfi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="31px"></h1>
+<h1>Hi! I´m Ramiro Ridolfi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="31px" /></h1>
 <h2>Frontend Developer 💻 🎨</h2>
 
 ### About me
