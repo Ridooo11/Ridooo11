@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ramiro Ridolfi</h1>
 <h2 align="center">Full Stack Developer 👨‍💻</h2>
 
-### About me
+## About me
 - I am 16 years old and I am from Buenos Aires, Argentina.
 - PERN and MERN full stack developer.
 - Self-taught and highly passionate, who seeks to improve and learn.
 
-### Technologies
+## Technologies
 
-## Frontend
+# Frontend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
-## Backend
+# Backend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-## Code managment and design
+# Code managment and design
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-### Social Media
+## Social Media
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ramiro-ridolfi/" target="_blank">
