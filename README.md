@@ -1,8 +1,6 @@
 <h1>Hi! I´m Ramiro Ridolfi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="31px" /></h1>
 <h2>Frontend Developer 💻 🎨</h2>
 
-![giphy](https://github.com/Ridooo11/Ridooo11/assets/129296924/455cd8b4-a0fa-41b8-a1e3-6b462359fe2f)
-
 ### About me
 - I am 16 years old and I am from Buenos Aires, Argentina.
 - PERN and MERN full stack developer.
