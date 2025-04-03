@@ -55,9 +55,6 @@
   <a href="https://www.instagram.com/ramaa_rido._/" target="_blank noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/ridooo22" target="_blank noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 
