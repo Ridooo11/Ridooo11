@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramiro Ridolfi</h1>
-<h2 align="center">Full Stack Developer 👨‍💻</h2>
+<h2 align="center">Front End Developer 👨‍💻</h2>
 
 # About Me
-- I am 16 years old and I am from Buenos Aires, Argentina.
-- PERN and MERN full stack developer.
+- I am 18 years old and I am from Buenos Aires, Argentina.
+- PERN and MERN.
 - Self-taught and highly passionate, who seeks to improve and learn.
 
 ## Technologies
