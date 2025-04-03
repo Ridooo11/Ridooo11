@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramiro Ridolfi</h1>
 <h2 align="center">Front End Developer 👨‍💻</h2>
 
-/*# About Me
+# About Me
 - I am 18 years old and I am from Buenos Aires, Argentina.
 - PERN and MERN.
-- Self-taught and highly passionate, who seeks to improve and learn. */
+- Self-taught and highly passionate, who seeks to improve and learn.
 
 ## Technologies
 
