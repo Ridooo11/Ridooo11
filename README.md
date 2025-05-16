@@ -33,7 +33,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="30" />
-  <img src="[https://github.com/devicons/devicon/blob/v2.16.0/icons/mariadb/mariadb-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg)" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
