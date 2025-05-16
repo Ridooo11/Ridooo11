@@ -2,8 +2,8 @@
 <h2 align="center">Front End Developer 👨‍💻</h2>
 
 # About Me
-- I am 18 years old and I am from Buenos Aires, Argentina.
-- PERN and MERN.
+- I am 18 years old.
+- Buenos Aires, Argentina.
 - Self-taught and highly passionate, who seeks to improve and learn.
 
 ## Technologies
