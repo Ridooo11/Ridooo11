@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ramiro Ridolfi</h1>
-<h2 align="center">Front End Developer 👨‍💻</h2>
 
 # About Me
 - I am 18 years old.
